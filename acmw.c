@@ -1,7 +1,6 @@
 // This is the code for level 7 of the hunt
 // Input:  nothing as such
 // Output: Association for Computing Machinery-Women
-// PS: This is a sample code for level 7, participants can code in their favourable languages.
 #include <stdio.h>
 int main()
 {

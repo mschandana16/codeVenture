@@ -1,6 +1,6 @@
-# This is the code for level 3 of the hunt
-# Input: X number of posts on her_281023's insta page = 4
-# Output: 1211
+# This is the code for level 2 of the hunt
+# Input: X number of posts on her_281023's insta page = 6
+# Output: 312211
 
 
 def algo(n):
@@ -28,5 +28,5 @@ def algo(n):
 
 # Initialize X with the number you got from level_2
 # X =
-X = (4,)  # this is expected of them
+X = 6  # this is expected of them
 print(algo(X))
