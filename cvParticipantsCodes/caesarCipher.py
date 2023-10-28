@@ -28,5 +28,3 @@ print(solved_clues)
 
 # shift = sum of digits of the number of posts, kannada_koota had, as of 23.09.23
 # ensure that the shift is a single digit number by doing sum of digits until it reduces to a single digit
-
-A

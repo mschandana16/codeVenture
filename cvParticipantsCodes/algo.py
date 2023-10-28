@@ -1,6 +1,4 @@
-# This is the code for level 3 of the hunt
-
-
+# This is the code for level 2 of the hunt
 def algo(n):
     if n == 1:
         return "1"
@@ -26,4 +24,4 @@ def algo(n):
 
 # Initialize X with the number you got from level_1 and use it
 # X =
-print(algo(6))
+print(algo(X))
